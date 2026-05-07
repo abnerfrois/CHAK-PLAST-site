@@ -2,6 +2,8 @@
 
 Site estatico para uma empresa de reciclagem industrial B2B, com foco em venda de materiais reciclados e servicos de reciclagem para industrias.
 
+Endereco comercial: Rua Altino Arantes 745, Jardim das Bandeiras, Campinas - SP 13051-110.
+
 ## Como abrir localmente
 
 Abra o arquivo `index.html` diretamente no navegador:
